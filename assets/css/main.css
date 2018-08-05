@@ -82,6 +82,10 @@ input, select, textarea {
 		-ms-overflow-style: scrollbar;
 	}
 
+
+
+
+
 	@media screen and (max-width: 480px) {
 
 		html, body {
@@ -606,6 +610,16 @@ input, select, textarea {
 				.row.gtr-200.gtr-uniform > * {
 					padding-top: 3.5em;
 				}
+
+				.main-info {
+  margin-top: 3%;
+  margin-left: 0%;
+  display: inline-block;
+  float: left;
+}
+.main {
+  width: 100%;
+}
 
 		@media screen and (max-width: 1680px) {
 
